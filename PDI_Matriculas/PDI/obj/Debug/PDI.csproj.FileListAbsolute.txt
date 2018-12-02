@@ -1,0 +1,164 @@
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\ApplicationInsights.config
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\csc.exe
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\vbc.exe
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\PDI.dll.config
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\PDI.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\PDI.pdb
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\EntityFramework.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\EntityFramework.SqlServer.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.Web.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Newtonsoft.Json.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\EntityFramework.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\EntityFramework.SqlServer.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.Web.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\bin\Newtonsoft.Json.xml
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\obj\Debug\PDI.csprojResolveAssemblyReference.cache
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\obj\Debug\Interop.MLApp.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\obj\Debug\PDI.csproj.ResolveComReference.cache
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\obj\Debug\PDI.dll
+C:\Users\Bilas\Desktop\Eng. Informatica\Processamento digital de imagem\Prática\3º Trabalho\PDI\PDI\obj\Debug\PDI.pdb
+C:\Users\Bilas\Desktop\PDI\PDI\bin\ApplicationInsights.config
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\csc.exe
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\vbc.exe
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bilas\Desktop\PDI\PDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bilas\Desktop\PDI\PDI\bin\PDI.dll.config
+C:\Users\Bilas\Desktop\PDI\PDI\bin\PDI.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\PDI.pdb
+C:\Users\Bilas\Desktop\PDI\PDI\bin\EntityFramework.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\EntityFramework.SqlServer.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.Web.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Newtonsoft.Json.dll
+C:\Users\Bilas\Desktop\PDI\PDI\bin\EntityFramework.xml
+C:\Users\Bilas\Desktop\PDI\PDI\bin\EntityFramework.SqlServer.xml
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.Web.xml
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bilas\Desktop\PDI\PDI\bin\Newtonsoft.Json.xml
+C:\Users\Bilas\Desktop\PDI\PDI\obj\Debug\Interop.MLApp.dll
+C:\Users\Bilas\Desktop\PDI\PDI\obj\Debug\PDI.csproj.ResolveComReference.cache
+C:\Users\Bilas\Desktop\PDI\PDI\obj\Debug\PDI.dll
+C:\Users\Bilas\Desktop\PDI\PDI\obj\Debug\PDI.pdb
+C:\Users\Bilas\Desktop\PDI\PDI\obj\Debug\PDI.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\ApplicationInsights.config
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\csc.exe
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\vbc.exe
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\PDI.dll.config
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\PDI.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\PDI.pdb
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\EntityFramework.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.Web.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Newtonsoft.Json.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\EntityFramework.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.Web.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\bin\Newtonsoft.Json.xml
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\obj\Debug\PDI.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\obj\Debug\Interop.MLApp.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\obj\Debug\PDI.csproj.ResolveComReference.cache
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\obj\Debug\PDI.dll
+C:\Users\Marcos\Desktop\PDI_Matriculas\PDI\obj\Debug\PDI.pdb
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\ApplicationInsights.config
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\csc.exe
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\vbc.exe
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\PDI.dll.config
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\PDI.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\PDI.pdb
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\EntityFramework.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.Web.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Newtonsoft.Json.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\EntityFramework.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.Web.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\bin\Newtonsoft.Json.xml
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\obj\Debug\PDI.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\obj\Debug\Interop.MLApp.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\obj\Debug\PDI.csproj.ResolveComReference.cache
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\obj\Debug\PDI.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\1º Ano\2º Ano\PDI\PDI_Matriculas\PDI\obj\Debug\PDI.pdb
